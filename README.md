@@ -1,4 +1,4 @@
-# Final_Project
+# Final_Project - Retail Sales Forecasting & Profit Analysis
 # Dự Báo Doanh Số Và Phân Tích Lợi Nhuận Cho Chuỗi Siêu Thị
 ## 1. Giới thiệu Dự án
 
