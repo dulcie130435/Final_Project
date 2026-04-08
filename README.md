@@ -1,4 +1,4 @@
-# Extract-and-analyze-handwritten-data-to-support-data-digitization-and-reporting
+# Business Data Analysis & Insights
 ## 1. Giới thiệu Dự án
 
 Dự án này tập trung vào việc dự báo doanh số bán hàng và phân tích lợi nhuận của chuỗi cửa hàng bán lẻ (Superstore) bằng các mô hình chuỗi thời gian (time series) và phân tích dữ liệu kinh doanh.
