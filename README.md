@@ -47,7 +47,7 @@ Quantity => Quantity of the Product.
 Discount => Discount provided.
 Profit => Profit/Loss incurred.
 ```
-link Google Colab: `https://colab.research.google.com/drive/1hSVeCvYeQvhUrJLBbMKy3CYuoSVVCguf?usp=sharing`
+**link Google Colab:** `https://colab.research.google.com/drive/1hSVeCvYeQvhUrJLBbMKy3CYuoSVVCguf?usp=sharing`
 
 ## 3. Phân tích (Analysis)
 ### 3.1. Chuẩn bị dữ liệu
